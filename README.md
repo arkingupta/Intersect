@@ -1,6 +1,4 @@
-# Intersect - Won best use of NEC's API @ CalHacks2016
-
-![Alt text](http://www.mohammadsharif.com/img/intersect.png)
+# Intersect
 
 Intersect is a meta social media platform designed to facilitate human interaction in the modern age.
 
@@ -16,8 +14,8 @@ The NEC API allows for image recognition via their servers and allows for images
 - Facebook Authentication via Firebase
 
 ## Contributers
+- Arkin Gupta (www.arkin.xyz)
 - Mohammad Sharif (www.mohammadsharif.com)
 - Jean-Luc Thumm
 - Nishant Mysore
 - Atsushi Yamamoto
-- Arkin Gupta (www.arkin.xyz)
