@@ -14,7 +14,7 @@ The NEC API allows for image recognition via their servers and allows for images
 - Facebook Authentication via Firebase
 
 ## Contributers
-- Arkin Gupta (www.arkin.xyz)
+- Arkin Gupta (www.arkingupta.github.io)
 - Mohammad Sharif (www.mohammadsharif.com)
 - Jean-Luc Thumm
 - Nishant Mysore
