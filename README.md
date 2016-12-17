@@ -8,14 +8,15 @@ The NEC API allows for image recognition via their servers and allows for images
 
 
 ### Technologies Used
+- Android Studio (Java & XML)
 - Firebase
 - NEC's API
 - Twitter's Login API
 - Facebook Authentication via Firebase
 
 ## Contributers
-- Arkin Gupta (www.arkingupta.github.io)
-- Mohammad Sharif (www.mohammadsharif.com)
+- Arkin Gupta
+- Mohammad Sharif
 - Jean-Luc Thumm
 - Nishant Mysore
 - Atsushi Yamamoto
